@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jifan
-- 👀 I’m interested in data science and engineering
-- 🎓 I'm a Ecological Economics graduate from University of Edinburgh 
-- 🌱 I’m an avid self learner
-- ✉️ Please drop me a message if you have any suggestion to my projects
+- 👀 I’m interested in data science and web development
+- 🎓 I'm an Ecological Economics graduate from the University of Edinburgh 
+- 🌱 I’m an avid self-learner
+- ✉️ Please drop me a message if you have any suggestions for my projects
 - 📫 You can also reach me through my LinkedIn: https://www.linkedin.com/in/jifan-lou-365a961a2/
 
 <!---
